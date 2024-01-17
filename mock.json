@@ -1,0 +1,58 @@
+{
+  "employees": [
+    {
+      "id": "d5d1",
+      "name": "Karthick",
+      "designation": "Developer",
+      "department": "Application development",
+      "joinedDate": "2018-05-07",
+      "emailId": "karthickbm90@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "832f",
+      "name": "Test1",
+      "designation": "Tester",
+      "department": "QA",
+      "joinedDate": "2021-01-30",
+      "emailId": "test1@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "2bc2",
+      "name": "Test2",
+      "designation": "Business analyst",
+      "department": "BA",
+      "joinedDate": "2015-01-30",
+      "emailId": "test2@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": "e7c5",
+      "name": "Test3",
+      "designation": "Admin executive",
+      "department": "Admin",
+      "joinedDate": "2019-01-01",
+      "emailId": "test3@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": "f7e1",
+      "name": "Test4",
+      "designation": "Finance analyst",
+      "department": "Payroll",
+      "joinedDate": "2019-01-01",
+      "emailId": "test4@gmail.com",
+      "gender": "female"
+    },
+    {
+      "id": "4e6d",
+      "name": "abc",
+      "designation": "Tester",
+      "department": "BA",
+      "joinedDate": "1234-01-01T00:00:00.000Z",
+      "emailId": "abcsf@gmail.com",
+      "gender": "female"
+    }
+  ]
+}
